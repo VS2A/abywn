@@ -24,13 +24,13 @@ var textStrings_CN = {
      "areTheyScared"        : "(你得拍住他们被小方吓坏了)"       , 
      "squaresSnubCircles"   : "小方冷落小圆"                                  ,
     "areTheySnubbed"       : "(你必须拍下他们 *正在* 冷落小圆)"        , 
-    "everyoneHates"        : "每个人都讨厌每个人!"                           ,
-   "almostEveryoneHates"  : "几乎每个人都讨厌每个人"                     ,
-   "squaresHateCircles"   : "小方讨厌小圆"                                  ,
-   "circlesHateSquares"   : "小圆讨厌小方"                                  ,
+    "everyoneHates"        : "大家都彼此怨恨!"                           ,
+   "almostEveryoneHates"  : "几乎大家都彼此怨恨 "                     ,
+   "squaresHateCircles"   : "小方怨恨小圆"                                  ,
+   "circlesHateSquares"   : "小圆怨恨小方"                                  ,
    "areTheyYelling"       : "(你得拍下他们对别人大喊大叫)"              , 
     "nerdsNow"             : "这些人在做什么"                        ,
-   "schockedPeep"         : "为什么这个人在害怕？"                              ,
+   "schockedPeep"         : "为什么这个人害怕？"                              ,
      "whatever"             : "无论什么"                                              ,
     
    // Act 3
